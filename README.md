@@ -1,5 +1,6 @@
 # yelp-camp
-Web App that manages camping grounds <br/>
+A full stack web application made using MongoDB, ExpressJS and NodeJS<br/>
+Made for managing Campsites <br/>
 User can add campgrounds with details like price, image, description, etc. <br/>
 
 <p> Additional features include:-
